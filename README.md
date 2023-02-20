@@ -37,4 +37,6 @@
 
 - `git pull origin master` -> on the master branch whatever are the latest changes bring them and add them to the commits
 
+- `git clone "repository url"` -> to clone the repository in our localhost
+
 >Feel free to fork and add more commands if you wish too!!
