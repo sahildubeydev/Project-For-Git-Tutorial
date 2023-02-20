@@ -39,4 +39,6 @@
 
 - `git clone "repository url"` -> to clone the repository in our localhost
 
+- `git commit --amend` -> to add the commit to the previous added one
+
 >Feel free to fork and add more commands if you wish too!!
