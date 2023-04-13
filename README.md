@@ -27,6 +27,8 @@
 
 - `git restore --staged <filename>` -> The new modified changes that we pushed in the staging area only those changes are back (to undo the changes of already added file)
 
+- `git remote add origin "repository url"` -> To add origin of repository on local system folder
+
 - `git branch` -> To see all the branches
 
 - `git checkout -b "branch name"` -> To checkout and enter in new branch
